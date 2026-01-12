@@ -35,3 +35,5 @@ while lives > 0:
         break
     else:
         lives -= 1
+    if lives == 0:
+        print("You ran out of lives! Game over!")
