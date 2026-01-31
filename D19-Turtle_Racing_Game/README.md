@@ -181,6 +181,3 @@ This project demonstrates how Python can be used to create **simple graphical ga
 Day 19 builds confidence with **GUI programming**, setting the foundation for more interactive applications in later lessons.
 
 ---
-
-* Help you **refactor this using functions**
-* Or prepare you for **Day 20–21 (Snake Game project)**
